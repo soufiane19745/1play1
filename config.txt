@@ -1,0 +1,6 @@
+token=NTQ4NjI5NzA0NTg4OTE4Nzg1.D1Mz3Q.g1oAIXjW8cV-GVOPE0yayGrb2RI
+owner=512279467977343006
+prefix=1
+game=by AK
+stayinchannel=true
+songinstatus=true
